@@ -1,0 +1,4 @@
+*.jsonl
+**/*.jsonl
+.vscode/
+slurm_logs/*
